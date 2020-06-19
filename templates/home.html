@@ -1,0 +1,39 @@
+ <!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{url_for('static',filename='bootstrap.min.css')}}">
+  <title>Image Recognition Server</title>
+  <body class style="margin:10px;padding:10px">
+<div class="jumbotron text-center">
+<h1>Skin Lesion Classification using DenseNet201</h1>
+
+<form action="" method=post enctype=multipart/form-data>
+  <label for="img">Select image:</label>
+  <center><input type="file" id="img" name="file"></center>
+  <input type="submit" value='Upload'>
+</form>
+<p>This website is a part of our research paper.</p>
+<strong>&copy;Abhishek Sunil Tiwari||Saswat Panda||Manas Ranjan Prusty</strong>
+</div>
+    <p style="margin-bottom:2cm;"></p>
+    <div class="row">
+        <div class="col-lg-4">
+          <div class="page-header">
+            <h3 id="tables">Result</h3>
+          </div>
+          <div class="bs-component">
+            <table class="table table-hover">
+                <tr class="table-active">
+                  <th scope="col">Image</th>
+                  <th scope="col">Predict</th>
+                </tr>
+                <tr>
+                    <th scope="row"> <img width="224" height="224" src="{{imagesource}}" /> </th>
+                    <td> {{label}} </td>
+                  </tr>
+            </table> 
+        </div>
+      </div>
+  </body>
