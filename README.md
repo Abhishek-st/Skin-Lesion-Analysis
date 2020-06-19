@@ -19,4 +19,11 @@ These instructions will get you a copy of the project up and running on your loc
 <a href="https://drive.google.com/file/d/16X8TfBDutfI6peqfFKAigsdF7_8aVHqp/view?usp=sharing">model.tflite</a>
 <br>
 
-
+<br>
+<b>This project is a part of a research and is a result of team work</b>
+<strong>Team Members</strong>
+<ul>
+  <li>Abhishek Sunil Tiwari</li>
+  <li>Saswat Panda</li>
+  <li>Manas Ranjan Prusty</li>
+ </ul>
