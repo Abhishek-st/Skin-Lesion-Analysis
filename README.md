@@ -34,5 +34,5 @@ The dataset was created from images collected from <a href="https://www.isic-arc
 ## Citation
 If you find our work useful please cite our paper.
 ```
-Saswat Panda, Abhishek Sunil Tiwari, Manas Ranjan Prusty (2021); Comparative study on different Deep Learning models for Skin Lesion Classification using transfer learning approach; International Journal of Scientific and Research Publications (IJSRP) 11(1) (ISSN: 2250-3153), DOI: http://dx.doi.org/10.29322/IJSRP.11.01.2021.p10923
+Saswat Panda, Abhishek Sunil Tiwari, Manas Ranjan Prusty (2021); Comparative study on different Deep Learning models <br>for Skin Lesion Classification using transfer learning approach; International Journal of Scientific and Research Publications <br>(IJSRP) 11(1) (ISSN: 2250-3153), DOI: http://dx.doi.org/10.29322/IJSRP.11.01.2021.p10923
 ```
