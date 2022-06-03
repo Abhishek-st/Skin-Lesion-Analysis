@@ -8,7 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 5. Run application `python application.py`
 6. Open `http://127.0.0.1:5000/` on your browser
 7. Click the file select button and select test image for classifier.
-
+## Dataset
+The dataset was created from images collected from <a href="https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery?filter=%5B%5D">ISIC</a>
 <h2>model.h5</h2>
 <a href="https://drive.google.com/file/d/1ZIKZMjvVFL7h8Y04vFBHyIxUnB4kdkLr/view?usp=sharing">model.h5</a>
 <br>
